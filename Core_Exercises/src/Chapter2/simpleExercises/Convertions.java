@@ -1,4 +1,4 @@
-package Problems;
+package Chapter2.simpleExercises;
 
 public class Convertions {
 
