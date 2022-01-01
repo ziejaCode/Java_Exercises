@@ -1,5 +1,14 @@
 package CodeWars;
 
+
+/*
+ * https://www.codewars.com/users/ziejaCode
+
+	Login - ziejaCode
+	Pass - Browar25101
+
+ */
+
 import java.lang.reflect.Array;
 
 /**
